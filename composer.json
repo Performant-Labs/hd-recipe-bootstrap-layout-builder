@@ -1,0 +1,25 @@
+{
+    "name": "performant-labs/hd-recipe-mercury",
+    "description": "Create a Mercury Editor site.",
+    "keywords": ["recipe"],
+    "type": "drupal-recipe",
+    "authors": [
+      {
+        "name": "André Angelantoni",
+        "homepage": "https://performantlabs.com",
+        "role": "Maintainer"
+      }
+    ],
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/Performant-Labs/hd-recipe-mercury"
+      }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+      "drupal/mercury_editor": "^2"
+    },
+    "suggest": {},
+    "license": "GPL-2.0-or-later"
+  }
