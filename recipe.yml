@@ -9,10 +9,10 @@ type: 'Site'
 # An array of recipes to apply prior to applying this recipe. If any of these
 # recipes fail to be applied, this recipe will not be applied either.
 #
-recipes:
+#recipes:
   # Start with HeroDevs - Base recipe.
   # https://github.com/Performant-Labs/hd-recipe-base
-  - hd-recipe-base
+  #- hd-recipe-base
 
 install:
   # An array of modules or themes to install, if they are not already.
