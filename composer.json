@@ -18,6 +18,8 @@
   ],
   "minimum-stability": "dev",
   "require": {
+      "drupal/layout_paragraphs": "^2",
+      "drupal/style_options": "^1",
       "drupal/mercury_editor": "^2"
     },
     "suggest": {},
