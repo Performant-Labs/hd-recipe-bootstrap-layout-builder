@@ -1,4 +1,4 @@
-## HeroDevs Merucry Editor Recipe
+## HeroDevs Mercury Editor Recipe
 Create a Mercury Editor Recipe.
 
 This recipe is designed to:
