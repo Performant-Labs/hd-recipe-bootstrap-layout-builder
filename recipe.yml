@@ -19,6 +19,7 @@ install:
   # The system will detect if it is a theme or a module. During the
   # install only simple configuration from the new modules is created.
   # This allows the Drupal recipe control over the configuration.
+  - paragraphs
   - layout_paragraphs
   - style_options
   - mercury_editor
@@ -32,6 +33,8 @@ install:
   #
 config:
   import:
+    paragraphs:
+      - 
     layout_paragraphs: '*'
     style_options: '*'
     mercury_editor: '*'
